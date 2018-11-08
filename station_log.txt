@@ -1,0 +1,10 @@
+Refill request for tray: 4, Product: Gum, Date: 28.11.17 0:41:05
+Refill request for tray: 3, Product: Candy, Date: 28.11.17 0:41:09
+Refill request for tray: 2, Product: Soda, Date: 28.11.17 0:41:09
+Refill request for tray: 1, Product: Water, Date: 28.11.17 0:41:10
+Refill request for tray: 0, Product: Chips, Date: 28.11.17 0:41:11
+Refill request for tray: 0, Product: Chips, Date: 29.11.17 13:59:09
+Refill request for tray: 1, Product: Water, Date: 29.11.17 13:59:11
+Refill request for tray: 0, Product: Chips, Date: 30.11.17 15:38:13
+Refill request for tray: 4, Product: Gum, Date: 30.11.17 15:40:23
+Refill request for tray: 4, Product: Gum, Date: 03.01.2018 19:43:06
